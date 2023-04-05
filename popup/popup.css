@@ -1,0 +1,28 @@
+* {
+  text-align: center;
+  margin-top: 0px;
+}
+
+#head-text{
+    font-family: 'Satisfy', cursive;
+    font-size: 40px;
+    padding: 10px;
+}
+
+
+#img-logo {
+    border-collapse: collapse;
+    width: 10em;
+}
+
+hr {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#footer p{
+    padding-top: 20px;
+    text-align: left;
+    color: gray;
+}
+

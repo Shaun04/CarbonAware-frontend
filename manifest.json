@@ -1,0 +1,24 @@
+{
+    "manifest_version" : 2,
+    "name" : "Carbon Aware",
+    "version" : "0.1.0",
+
+    "description" : "Displays the carbon emission while loading a website",
+
+    "browser_action": {
+        "default_title": "Carbon Aware",
+        "default_popup": "popup/popup.html"
+    },
+
+    "permissions" : [
+        "tabs"
+    ],
+
+    "icons": {
+    "48": "assets/icons/logo.png"
+    }
+
+
+    
+
+}
