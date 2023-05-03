@@ -38,12 +38,10 @@ function apiCall(url) {
     })
     .catch((error) => console.log("Error"));
 }
-
 // button.addEventListener("click", function fun() {
 //     const url = document.getElementById("search").value;
 //     apiCall(url); //calls the function inwhich when you search the url it shows
 // })
-
 // function below listens to the open tabs
 submit.addEventListener("click", function checkThis() {
   document.getElementById("submit").disabled = true;
